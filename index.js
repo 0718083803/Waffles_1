@@ -3,6 +3,7 @@ document.getElementById("waffle1").addEventListener("click", function(){
         alert("Waffle clicked!");        
     }, 2000);
     
+    
 })
 document.getElementById("waffle1").addEventListener("mouseover", function(){
      document.getElementById("waffle1").src = "image2.png";
